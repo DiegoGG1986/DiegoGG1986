@@ -1,6 +1,6 @@
-# About me 👋
+# Sobre mí 👋
 
-Hola. Mi nombre es **Diego González** y estoy aprendiendo a utilizar *Github*.
+## Hola. Mi nombre es **Diego González** y estoy aprendiendo a utilizar *Github*.
 
 Tengo 38 años y actualmente trabajo como Comercial para la empresa de calibración Trescal España.
 
